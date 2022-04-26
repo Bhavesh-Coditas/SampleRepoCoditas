@@ -6,3 +6,7 @@ Java Design Patterns
 Adding More plans
 Java8
 Spring Security
+
+Some More
+JPA
+OAuth2
